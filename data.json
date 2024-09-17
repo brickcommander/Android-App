@@ -1,7 +1,22 @@
 [
-{
-  "name": "Pawan",
-  "count": "12",
-  "date": "2024-09-17"
-}
+  {
+    "name": "Pawan",
+    "score": 0,
+    "lastWorkingDay": ""
+  },
+  {
+    "name": "Satyam",
+    "score": 0,
+    "lastWorkingDay": ""
+  },
+  {
+    "name": "Yashwant",
+    "score": 0,
+    "lastWorkingDay": ""
+  },
+  {
+    "name": "Anmol",
+    "score": 0,
+    "lastWorkingDay": ""
+  }
 ]
