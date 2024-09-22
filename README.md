@@ -1,1 +1,1 @@
-This Repo is a OPEN Database for my App Whose Turn Is It?
+This Repo is an OPEN Database for my Android Application Whose Turn Is It?
