@@ -9,6 +9,5 @@
     "Pawan"
   ],
   "isFoodCooked": true,
-  "workDone": false,
-  "isFinalized": false
+  "workDone": false
 }
