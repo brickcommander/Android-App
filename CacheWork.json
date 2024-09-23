@@ -1,13 +1,1 @@
-{
-  "currentDate": "2023-12-04", 
-  "originalTurn": "",
-  "whoseTurnIsIt": "Default=Yashwant",
-  "whoWillEat": [
-    "Anmol",
-    "Yashwant",
-    "Satyam",
-    "Pawan"
-  ],
-  "isFoodCooked": true,
-  "workDone": false
-}
+{"currentDate":"2023-12-04","isFoodCooked":true,"originalTurn":"NA","whoWillEat":["Anmol","Yashwant","Satyam","Pawan"],"whoseTurnIsIt":"NA","workDone":false}
