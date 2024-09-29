@@ -1,1 +1,1 @@
-[{"createdDate":"2024-09-30","day":"Monday","eatersList":["Satyam","Anmol","Yashwant"],"foodCooked":true,"id":"f9a4bb1c-06cb-4a7d-8ed1-23b79680ca14","unableToWash":[],"whoWashed":"NA"}]
+[{"createdDate":"2024-09-30","day":"Monday","eatersList":["Satyam","Anmol","Yashwant"],"foodCooked":true,"id":"f9a4bb1c-06cb-4a7d-8ed1-23b79680ca14","unableToWash":["Pawan"],"whoWashed":"NA"}]
